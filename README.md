@@ -27,17 +27,13 @@ As the name of the series implies, this redesign is currently a work in progress
 
 ### Design Inputs
 * Must fit a variety of soda bottle brands and sizes ranging from 16 oz to 2 liter.
-* Must be able to be operated solo.
-... * Ability to turn the launcher upside down easily for loading.
-... * Ability to retract the cuff and load a liquid-filled bottle 
+* Must be able to be operated solo: Ability to turn the launcher upside down easily for loading *and* Ability to retract the cuff and load a liquid-filled bottle.
 * Must be able to adjust launch angle to account for hills.
 * Must be able to trigger launch remotely.
 
 ### Old Design Fixes
 There are a numer of improvements that should be made to the old design which, while not necessarily distinct design inputs, would make replication, reliability, and usability significantly better than the old model.
 * Should fold down for easy portability.
-* Must be comprised entirely of either:
-...* Standard, off-the-shelf parts, OR
-...* 3D printed components.
+* Must be comprised entirely of either: * Standard, off-the-shelf parts, *or** 3D printed components.
 * All components which must hold pressure should be comprised of standard PVC fittings (NO janky welds or epoxy fixes).
 * No exposed sharp edges!
