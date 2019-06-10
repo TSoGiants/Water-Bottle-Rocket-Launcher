@@ -28,8 +28,8 @@ As the name of the series implies, this redesign is currently a work in progress
 ### Design Inputs
 * Must fit a variety of soda bottle brands and sizes ranging from 16 oz to 2 liter.
 * Must be able to be operated solo.
-...* Ability to turn the launcher upside down easily for loading.
-...* Ability to retract the cuff and load a liquid-filled bottle 
+... * Ability to turn the launcher upside down easily for loading.
+... * Ability to retract the cuff and load a liquid-filled bottle 
 * Must be able to adjust launch angle to account for hills.
 * Must be able to trigger launch remotely.
 
