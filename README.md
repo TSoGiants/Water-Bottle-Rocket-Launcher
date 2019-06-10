@@ -34,6 +34,11 @@ As the name of the series implies, this redesign is currently a work in progress
 ### Old Design Fixes
 There are a numer of improvements that should be made to the old design which, while not necessarily distinct design inputs, would make replication, reliability, and usability significantly better than the old model.
 * Should fold down for easy portability.
-* Must be comprised entirely of either: * Standard, off-the-shelf parts, *or** 3D printed components.
+* Must be comprised entirely of either: Standard, off-the-shelf parts, *or* 3D printed components.
 * All components which must hold pressure should be comprised of standard PVC fittings (NO janky welds or epoxy fixes).
 * No exposed sharp edges!
+
+### How to Collaborate
+For any active TSoG.tv students who would like to contribute to this project, please create a GitHub account and contact Dr. Foland via Discord. He will need your GitHub username to grant you permission to modify this repository.
+
+This is a primarily mechanical CAD focused project that we will be completing in Alibre Design. You can download a 30 day trial of this software [here](https://www.alibre.com/get-a-trial-of-alibre-design-expert/). Students active on this project should discuss longer-term licensing options with Dr. Foland.
