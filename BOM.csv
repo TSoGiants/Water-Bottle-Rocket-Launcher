@@ -1,5 +1,5 @@
 Description,Part Number,Manufacturer,Distributor,Link,Unit Cost,Quantity,Total Cost,Notes,
-Schrader Valve,8063K41,,McMaster-Carr,https://www.mcmaster.com/8063k41,$3.83 ,1,$3.83 ,,
+"Schrader Valve to 1/8"" NPT",684,Milton,Amazon,https://www.amazon.com/Milton-684-NPT-Tank-Valve/dp/B001O2ZL5C,$1.65 ,1,$1.65 ,Minimum quantity is 10 valves at this price.,
 ASME-Code Fast-Acting Pressure-Relief Valve (100 PSI),48435K71,,McMaster-Carr,https://www.mcmaster.com/48435k71-48435K713,$5.62 ,1,$5.62 ,,
 6' Compressor Air Extension Hose,16,VIAIR,Amazon,https://www.amazon.com/VIAIR-00016-Portable-Compressor-Extension/dp/B00ELJD0BW,$5.60 ,1,$5.60 ,,
 "Sch. 40 PVC 1/2"" Socket Male x 1/8"" NPT Female Bushing",4880K821,,McMaster-Carr,https://www.mcmaster.com/4880k821,$0.67 ,2,$1.34 ,,
@@ -37,4 +37,4 @@ Housing Bottom,,,,,$1.42 ,1,$1.42 ,0.0645,kg
 Housing Top,,,,,$1.40 ,1,$1.40 ,0.0638,kg
 Sled,,,,,$0.38 ,1,$0.38 ,0.0174,kg
 ,,,,,,,,,
-,,,,,Total,,$52.18 ,,
+,,,,,Total,,$50.00 ,,
